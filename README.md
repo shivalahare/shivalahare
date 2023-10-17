@@ -3,16 +3,16 @@
 	<a href = "https://commits.top/egypt.html" target="_blank">
 			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
 		</a>
-
+</p>
  <br>
 	
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=100&pause=1000&random=false&width=500&lines=Hello+World;I'm+Shiva+Lahare+;An+Accountant;+But+Im+sweetching+my++carriar;To+Quskit+Quantum+programer" alt="Typing SVG" /></a>
-	-->
-	<a href = "https://commits.top/egypt.html" target="_blank">
+
+ <a href = "https://commits.top/egypt.html" target="_blank">
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
 	</a>
 
-</p>
+
 
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
