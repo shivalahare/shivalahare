@@ -1,28 +1,19 @@
-<!--
-Hi! This is an easter egg.
-Congratulations you found the first one!
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats">
+</p>
 
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak Stats">
+</p>
 
-<!-- # 👀 Hi stranger! 👋🏻 -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages">
+</p>
 
-# 🤔 About me:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=juicyfresh" alt="GitHub Profile Trophy">
+</p>
 
-- 🐇 Following the white rabbit
-- 🐈 Cat dad 😻
-- Professional 🐛 solver
-- 👨🏻‍💻 Full-Stack Developer
-- 💊 Coding the Matrix
-- 😍 Emoji lover
-- 🚀 One day I will see humans on Mars!
-- 🐇🥚 There's easter eggs in this profile...
-
-<!-- Watch this: https://www.youtube.com/watch?v=eC7xzavzEKY -->
-
----
-
-👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
-
-
-⭐️ From [rodrigograca31](https://github.com/rodrigograca31)
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=your-username&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF" alt="GitHub Activity Graph">
+</p>
