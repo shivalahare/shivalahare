@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=100&pause=100&random=false&width=500&lines=Hello+World;I'm+Shiva+Lahare+;An+Accountant;+But+Im+sweetching+my++carriar;To+Quskit+Quantum+programer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=100&pause=1000&random=false&width=500&lines=Hello+World;I'm+Shiva+Lahare+;An+Accountant;+But+Im+sweetching+my++carriar;To+Quskit+Quantum+programer" alt="Typing SVG" /></a>
 <br>
 
 <p align="center"> 
