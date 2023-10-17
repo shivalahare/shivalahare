@@ -1,15 +1,12 @@
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=shivalahare&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/>
+	<a href = "https://commits.top/egypt.html" target="_blank">
+			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
+		</a>
+
  <br>
 	
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=100&pause=1000&random=false&width=500&lines=Hello+World;I'm+Shiva+Lahare+;An+Accountant;+But+Im+sweetching+my++carriar;To+Quskit+Quantum+programer" alt="Typing SVG" /></a>
-
-
- 
-	<!---
-		<a href = "https://commits.top/egypt.html" target="_blank">
-			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
 	-->
 	<a href = "https://commits.top/egypt.html" target="_blank">
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
