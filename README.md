@@ -196,7 +196,7 @@
 
 ----
 	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=7oSkaaa&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
+[![shiva's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shivalahare&theme=github	)](https://github.com/shivalahare/github-readme-activity-graph)
 
  
 </details>
