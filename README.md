@@ -4,7 +4,7 @@
  <br>
 ## <picture><img src ="https://raw.githubusercontent.com/shivalahare/shivalahare/main/about_me.gif" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://raw.githubusercontent.com/shivalahare/shivalahare/main/Right_Side.gif" width = 250px></picture>
 
 <br><br>
 - 👨‍💼: I am a `Senior Accountant` at [City : Raipur,](https://maps.app.goo.gl/6z8YikhbrVEuMJBc7) [Chhattisgarh ,India]([http://suez.edu.eg/ar/](https://maps.app.goo.gl/apLNWCdFnHgcMbZTA)).
