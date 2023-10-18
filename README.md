@@ -2,34 +2,6 @@
 	<img src="https://komarev.com/ghpvc/?username=shivalahare&label=Profile%20views&color=0047AB&style=plastic?" alt="shivalahare" height=25px, width=160px/>
 </p>
  <br>
-	
-<svg xmlns='http://www.w3.org/2000/svg'
-    xmlns:xlink='http://www.w3.org/1999/xlink'
-    viewBox='0 0 380 50'
-    style='background-color: #00000000;'
-    width='380px' height='50px'>
-
-<style>
-@font-face {
-  font-family: 'Fira Code';
-  font-style: normal;
-  font-weight: 400;
-  font-display: fallback;
-  }
-</style>
-   <path id='path0'>
-                            <!-- Single line -->
-                                <animate id='d0' attributeName='d' begin='0s;d3.end'
-                    dur='5000ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h380 ; m0,25 h380 ; m0,25 h0' keyTimes='0;0.64;0.84;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#36BCF7' font-size='20'
-        dominant-baseline='auto'
-        x='50%' text-anchor='middle'>
-        <textPath xlink:href='#path0'>
-            Type messages everywhere!
-        </textPath>
-    </text>
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
