@@ -218,9 +218,9 @@
 		Student Management System
     	</a>
     	<a href="https://github.com/shivalahare/task-management-system.git">
-      		<img src="https://github.com/shivalahare/student-management-system/blob/main/WhatsApp%20Image%202024-09-25%20at%2012.40.48%20PM.jpeg" width = 100px hight = 100px alt="GitHub Stats" /><hr>
+      		<img src="https://github.com/shivalahare/student-management-system/blob/main/WhatsApp%20Image%202024-09-25%20at%2012.40.48%20PM.jpeg" width = 100px hight = 100px alt="GitHub Stats" />
 		Task Management System
-    	</a>
+    	</a><hr>
   </p>
 </div>
 </details>
