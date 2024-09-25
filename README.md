@@ -3,6 +3,18 @@
 </p>
  <br>
 ## <picture><img src ="https://raw.githubusercontent.com/shivalahare/shivalahare/main/about_me.gif" width = 50px></picture> About me
+# User
+
+Hello! I'm User.
+
+## Recent Activity
+
+This is a list of my most recent activity on GitHub.
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->	
+
 
 <picture> <img align="right" src="https://raw.githubusercontent.com/shivalahare/shivalahare/main/Right_Side.gif" width = 250px></picture>
 
@@ -190,17 +202,7 @@
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
 ----
-# User
 
-Hello! I'm User.
-
-## Recent Activity
-
-This is a list of my most recent activity on GitHub.
-
-<!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:last_update-->	
 
  
 </details>
