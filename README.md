@@ -168,7 +168,7 @@
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
 ----	
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shivalahare&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shivalahare)](https://git.io/streak-stats)
 
 </details>
   
