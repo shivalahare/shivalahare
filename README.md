@@ -190,8 +190,17 @@
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
 ----
-	
-[![shiva's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shivalahare&theme=github	)](https://github.com/shivalahare/github-readme-activity-graph)
+# User
+
+Hello! I'm User.
+
+## Recent Activity
+
+This is a list of my most recent activity on GitHub.
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->	
 
  
 </details>
