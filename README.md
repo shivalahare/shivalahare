@@ -209,7 +209,7 @@
 	
 <div>
   <p align="center">
-	<a href="https://github.com/shivalahare/e-commerce-website.git">
+	<a href="https://github.com/shivalahare/e-commerce-website.git" width = 50px hight = 50px>
       		<img src="https://github.com/shivalahare/e-commerce-website/blob/main/WhatsApp%20Image%202024-09-25%20at%2012.43.38%20PM.jpeg" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/shivalahare/student-management-system.git">
