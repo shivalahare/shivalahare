@@ -209,64 +209,13 @@
 	
 <div>
   <p align="center">
-	<a href="">
+	<a href="https://github.com/shivalahare/e-commerce-website.git">
       		<img src="" alt="GitHub Stats" />
     	</a>
-	<a href="">
+	<a href="https://github.com/shivalahare/student-management-system.git">
       		<img src="" alt="GitHub Stats" />
     	</a>
-    	<a href="">
-      		<img src="" alt="GitHub Stats" />
-    	</a>
-    	<a href="">
-      		<img src="" alt="GitHub Stats" />
-    	</a>
-    	<a href="">
-      		<img src="" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="" alt="GitHub Stats" />
-    	</a>
-	<a href="">
+    	<a href="https://github.com/shivalahare/task-management-system.git">
       		<img src="" alt="GitHub Stats" />
     	</a>
   </p>
