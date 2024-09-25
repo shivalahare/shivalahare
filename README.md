@@ -210,15 +210,15 @@
 <div>
   <p align="center">
 	<a href="https://github.com/shivalahare/e-commerce-website.git">
-      		<img src="https://github.com/shivalahare/e-commerce-website/blob/main/WhatsApp%20Image%202024-09-25%20at%2012.43.38%20PM.jpeg" width = 100px hight = 100px alt="GitHub Stats" />
+      		<img src="https://github.com/shivalahare/e-commerce-website/blob/main/WhatsApp%20Image%202024-09-25%20at%2012.43.38%20PM.jpeg" width = 100px hight = 100px alt="GitHub Stats" /><br/>
 		E-Commerce-Website
     	</a>
 	<a href="https://github.com/shivalahare/student-management-system.git">
-      		<img src="https://github.com/shivalahare/task-management-system/blob/main/WhatsApp%20Image%202024-09-25%20at%2012.42.27%20PM.jpeg" width = 100px hight = 100px alt="GitHub Stats" />
+      		<img src="https://github.com/shivalahare/task-management-system/blob/main/WhatsApp%20Image%202024-09-25%20at%2012.42.27%20PM.jpeg" width = 100px hight = 100px alt="GitHub Stats" /><br/>
 		Student Management System
     	</a>
     	<a href="https://github.com/shivalahare/task-management-system.git">
-      		<img src="https://github.com/shivalahare/student-management-system/blob/main/WhatsApp%20Image%202024-09-25%20at%2012.40.48%20PM.jpeg" width = 100px hight = 100px alt="GitHub Stats" />
+      		<img src="https://github.com/shivalahare/student-management-system/blob/main/WhatsApp%20Image%202024-09-25%20at%2012.40.48%20PM.jpeg" width = 100px hight = 100px alt="GitHub Stats" /><br/>
 		Task Management System
     	</a>
   </p>
