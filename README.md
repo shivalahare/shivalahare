@@ -10,7 +10,7 @@
 - 👨‍💼: I am a `Senior Accountant` at [City : Raipur,](https://maps.app.goo.gl/6z8YikhbrVEuMJBc7) [Chhattisgarh ,India]([http://suez.edu.eg/ar/](https://maps.app.goo.gl/apLNWCdFnHgcMbZTA)).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a beginer programmer
-- :student: I’m currently learning `Quskit` `Quantum Circuit` and `ML Algo`.
+- :student: I’m currently learning `Quskit` `Quantum Circuit` `Neural Network` `Transformer (deep learning architecture)` and `AI Retrieval-Augmented Generation (RAG)`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
 - :boom: You can visit [MY WEBSITE]().
