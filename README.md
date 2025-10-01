@@ -1,4 +1,7 @@
 <!-- Banner -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=shivalahare&label=Profile%20views&color=0047AB&style=plastic" alt="Profile Views"/>
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/shivalahare/shivalahare/main/banner.png" alt="Shiva Lahare Banner" width="100%"/>
 </p>
