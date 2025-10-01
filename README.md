@@ -11,7 +11,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## <picture><img src ="https://raw.githubusercontent.com/shivalahare/shivalahare/main/about_me.gif" width = 50px></picture> About me
 
 <picture>
   <img align="right" src="https://raw.githubusercontent.com/shivalahare/shivalahare/main/Right_Side.gif" width="250px"/>
