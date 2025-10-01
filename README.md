@@ -89,12 +89,39 @@
 
 ### 🤖 Automation & Tools  
 <p align="center">
+  <!-- Workflow Automation -->
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=selenium&logoColor=white"/>
+  <img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-FFD43B?style=plastic&logo=python&logoColor=black"/>
+  <img alt="Scrapy" src="https://img.shields.io/badge/Scrapy-60A839?style=plastic&logo=scrapy&logoColor=white"/>
   <img alt="Zapier" src="https://img.shields.io/badge/Zapier-FF4A00?style=plastic&logo=zapier&logoColor=white"/>
+  <img alt="IFTTT" src="https://img.shields.io/badge/IFTTT-000000?style=plastic&logo=ifttt&logoColor=white"/>
+  
+  <!-- Data Processing -->
   <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=plastic&logo=google-sheets&logoColor=white"/>
+  <img alt="Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white"/>
+  <img alt="CSV" src="https://img.shields.io/badge/CSV-005571?style=plastic&logo=files&logoColor=white"/>
   <img alt="JSON" src="https://img.shields.io/badge/JSON-000000?style=plastic&logo=json&logoColor=white"/>
+  <img alt="YAML" src="https://img.shields.io/badge/YAML-CB171E?style=plastic&logo=yaml&logoColor=white"/>
+
+  <!-- APIs / Integration -->
+  <img alt="REST API" src="https://img.shields.io/badge/REST%20API-FF6F00?style=plastic&logo=fastapi&logoColor=white"/>
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphql&logoColor=white"/>
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=plastic&logo=openai&logoColor=white"/>
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-00C7B7?style=plastic&logo=python&logoColor=white"/>
+
+  <!-- DevOps & Scripting -->
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnubash&logoColor=white"/>
+  <img alt="Cron Jobs" src="https://img.shields.io/badge/Cron%20Jobs-000000?style=plastic&logo=linux&logoColor=white"/>
+  <img alt="FFmpeg" src="https://img.shields.io/badge/FFmpeg-007808?style=plastic&logo=ffmpeg&logoColor=white"/>
+  <img alt="Makefile" src="https://img.shields.io/badge/Makefile-4479A1?style=plastic&logo=gnu&logoColor=white"/>
+  
+  <!-- Documentation & Workflow -->
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"/>
-</p>  
+  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=plastic&logo=latex&logoColor=white"/>
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white"/>
+  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-483699?style=plastic&logo=obsidian&logoColor=white"/>
+</p>
+
 
 ### 🔧 Version Control & Collaboration  
 <p align="center">
