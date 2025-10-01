@@ -2,11 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=shivalahare&label=Profile%20views&color=0047AB&style=plastic" alt="Profile Views"/>
 </p>
 
-👋 Hi, I’m Shiva Lahare  
-🔹 Full-stack developer with experience in Django, React, and DevOps.  
-🔹 Passionate about AI (LLMs, RAG apps) and currently exploring Quantum Computing.  
-🔹 Love building automation tools and high-availability systems.  
-
+<h1 align="center">Hi 👋, I'm Shiva Lahare</h1>
 <h3 align="center">🚀 Accountant turned Developer | Exploring Quantum Computing, AI & Full-Stack Development</h3>
 
 ---
